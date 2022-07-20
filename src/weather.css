@@ -1,0 +1,76 @@
+.firstImage {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+  }
+  .zurich,
+  .paris,
+  .tokyo {
+    background: #feffdf;
+    border: 1px solid #feffdf;
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+  }
+  .zurich:hover {
+    background: #ffe168;
+  }
+  .paris:hover {
+    background: #ffe168;
+  }
+  .tokyo:hover {
+    background: #ffe168;
+  }
+  .card {
+    background: #feffdf;
+  }
+  .btn-primary {
+    margin: 10px 5px;
+  }
+  .sun {
+    display: block;
+    margin: 0 auto;
+  }
+  .temperature {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .celsius,
+  .fahrenheit {
+    background: none;
+    border: none;
+    font-size: 18px;
+    text-decoration: underline;
+  }
+  
+  .condition {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0px;
+  }
+  .humidity {
+    text-align: center;
+    font-size: 14px;
+    color: #70757a;
+  }
+  .wind {
+    text-align: center;
+    font-size: 14px;
+    color: #70757a;
+  }
+  .daily-forecast {
+    font-size: 24px;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 5px;
+  }
+  .Footer {
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+  }
